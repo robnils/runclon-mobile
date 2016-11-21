@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Runner Organiser</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_label">Runner Organiser</string>
+    <string name="search_hint">Find by name...</string>
+    <string name="title_activity_runner_info">RunnerInfoActivity</string>
+</resources>
